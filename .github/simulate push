@@ -1,0 +1,8 @@
+Enumerating objects: 145, done.
+Counting objects: 100% (145/145), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (97/97), done.
+Writing objects: 100% (145/145), 40.12 KiB | 2.50 MiB/s, done.
+Total 145 (delta 15), reused 0 (delta 0)
+To github.com:mahdi-org/mahdi_coin_app.git
+ * [new branch]      main -> main
