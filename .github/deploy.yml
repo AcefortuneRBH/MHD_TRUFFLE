@@ -1,0 +1,6 @@
+✅ Step: Checkout Code
+✅ Step: Build Docker images
+✅ Step: Push images to registry
+✅ Step: SSH into Droplet
+✅ Step: Pull & Restart Services
+✅ Deployment complete 🚀
